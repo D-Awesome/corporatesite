@@ -1,0 +1,9 @@
+/* Add here all your css styles (customizations) */
+
+/*----------------------- Low-res -----------------------*/
+@media only screen (-moz-max-device-pixel-ratio: 1), 
+	only screen and (-webkit-max-device-pixel-ratio: 1), 
+	only screen and (max-device-pixel-ratio: 1) {
+
+		body p {font-weight: 400;}
+}
